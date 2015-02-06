@@ -1,3 +1,22 @@
+###Update
+Plot 1, 2, 3 and 4 created by Kaspar Jenni on 2/6/2015 following the project's instructions
+
+### Script
+
+Download the .R files in your working directory.
+Run the following:
+```
+source(".//plot1.R")
+source(".//plot2.R")
+source(".//plot3.R")
+source(".//plot4.R")
+
+plot1()
+plot2()
+plot3()
+plot4()
+```
+
 ## Introduction
 
 This assignment uses data from
@@ -89,26 +108,30 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 
-The four plots that you will need to construct are shown below. 
+The four plots that you will need to construct are shown below.
+Addition by Kaspar Jenni: resulting four plots
 
 
 ### Plot 1
-
-
+##Instruction
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
+##Result
+![plot of plot1](plot1.png)
 
 ### Plot 2
-
+##Instruction
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
+##Result
+![plot of plot2](plot2.png)
 
 ### Plot 3
-
+##Instruction
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
+##Result
+![plot of plot3](plot3.png)
 
 ### Plot 4
-
+##Instruction
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+##Result
+![plot of plot4](plot4.png)
